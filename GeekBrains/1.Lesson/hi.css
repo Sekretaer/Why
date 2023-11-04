@@ -1,0 +1,30 @@
+.article-left{
+    float: left;
+    display: inline;
+    padding-right: 10px;
+}
+.article-right{
+    float: right;
+    display: inline;
+    padding-left: 10px;
+}
+.article{
+    display: inline;
+    height: 200px;
+    padding-right: 0.1px;
+    background-color: rgb(251, 0, 255);
+    font-size: 25px;
+}
+.header{
+    display: block;
+}
+.row{
+    padding-top: 100px;
+}
+.space{
+    display: inline;
+    padding-right: 20px;
+}
+*{
+    text-align: center;
+}

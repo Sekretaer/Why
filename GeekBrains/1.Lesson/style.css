@@ -1,0 +1,23 @@
+h1 {
+    color:red;
+    font-size: 70px;
+}
+.brown-text{
+    display: block;
+    height: 15px;
+    color: brown;
+    font-family:sans-serif;
+}
+.violet-text{
+    display: inline;
+    background-color: aqua;
+    color:blueviolet;
+    font-style:italic
+}
+img{
+    display: block;
+    padding-bottom: 40px;
+}
+aside{
+    display: inline;
+}
